@@ -1,0 +1,5 @@
+[mail]
+<your server ip here>
+
+[mail:vars]
+ansible_ssh_user=root
