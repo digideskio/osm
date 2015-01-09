@@ -4,6 +4,10 @@ The intent behind `osm` (pronounced like `awesome`) is to provide people with a 
 
 Osm is by no means production ready at this point, it's a very early-stages ongoing effort. We are **extremely** open to contributions!
 
+## Community
+
+Want to discuss ideas? We hang out in the [`#open-source-mail`](http://webchat.freenode.net/?channels=#open-source-mail) IRC channel in [freenode](https://freenode.net/). :)
+
 ## How to use it
 
 ```bash
